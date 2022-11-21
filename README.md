@@ -10,17 +10,17 @@ GitHub
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivankhutso&label=Profile%20views&color=0e75b6&style=flat" alt="ivankhutso" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Dev**
+- 😎 I’m currently learning **MERN Stack Dev**
 
 - 💬 Ask me about **HTML, CSS,Javascript, Python, Machine Learning, SQL, Capstone, Deep Learning with Keras and TensorFlow, Tableu Desktop, Hadoop and Spark**
 
-- 📫 How to reach me **ivankhutso@gmail.com**
+- 👨🏽‍💻 How to reach me **ivankhutso@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- 😂 Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/ivan-khutso-0bb83a1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan khutso" height="30" width="40" /></a>
+<a href="https://linkedin/in/ivan-khutso-0bb83a1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan khutso" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Ivan.95Khutso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivan khutso setsiba" height="30" width="40" /></a>
 <a href="https://instagram.com/ivan_khutso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan_khutso" height="30" width="40" /></a>
 <a href="https://discord.gg/Ivan_Khutso#35922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5392" height="30" width="40" /></a>
