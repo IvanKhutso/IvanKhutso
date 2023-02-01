@@ -1,6 +1,3 @@
-GitHub
-
-
 
 [![MasterHead](https://www.10bestdesign.com/blog/content/images/2017/11/city-lights-for-atom-vs-code.gif)](https://rishavchanda.io)
 
