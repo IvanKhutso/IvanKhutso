@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.10bestdesign.com/blog/content/images/2017/11/city-lights-for-atom-vs-code.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Ivan Khutso</h1>
 <h3 align="center">I am a passionate software developer with a strong desire to create efficient and scalable applications.</h3>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin/in/ivan-khutso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan khutso" height="30" width="40" /></a>
+<a href="https://linkedin/in/ivan-khutso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-khutso-0bb83a1a3/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Ivan.95Khutso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivan khutso setsiba" height="30" width="40" /></a>
 <a href="https://instagram.com/ivan_khutso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan_khutso" height="30" width="40" /></a>
 <a href="https://discord.gg/840081956711432202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ivan_Khutso#5392" height="30" width="40" /></a>
